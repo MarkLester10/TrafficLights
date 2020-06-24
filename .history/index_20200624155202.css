@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #0e1821;
+
+  margin: 0;
+}
+
+.container {
+  width: 70px;
+  height: 200px;
+  background-color: #44535e;
+}
